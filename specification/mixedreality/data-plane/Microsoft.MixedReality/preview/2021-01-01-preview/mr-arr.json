@@ -1380,7 +1380,7 @@
       "in": "header",
       "name": "Authorization",
       "type": "apiKey",
-      "description": "The token returned by the Mixed Reality Security Token Service. TODO: elaborate?"
+      "description": "A token returned by the Mixed Reality Secure Token Service. See https://docs.microsoft.com/en-us/azure/remote-rendering/how-tos/tokens for details."
     }
   },
   "security": [
