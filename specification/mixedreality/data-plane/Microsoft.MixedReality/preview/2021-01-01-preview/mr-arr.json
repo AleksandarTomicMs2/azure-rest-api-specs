@@ -1057,7 +1057,7 @@
       ],
       "type": "string",
       "x-ms-enum": {
-        "name": "ConversionStatus",
+        "name": "conversion_status",
         "modelAsString": true,
         "values": [
           {
@@ -1253,7 +1253,7 @@
         "Stopped"
       ],
       "x-ms-enum": {
-        "name": "SessionStatus",
+        "name": "session_status",
         "modelAsString": true,
         "values": [
           {
@@ -1288,7 +1288,7 @@
         "Premium"
       ],
       "x-ms-enum": {
-        "name": "SessionSize",
+        "name": "session_size",
         "modelAsString": true,
         "values": [
           {
